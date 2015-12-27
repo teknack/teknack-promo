@@ -98,7 +98,7 @@
 				<div class="col-md-4">
 					<div class="intro-table intro-table-first">
 						<h3 class="white heading">Teknack 2016</h3>
-						<h5 class="white heading">Some Text related to this years teknack</h5>
+						<h5 style="padding: 0px 30px" class="white heading text-justify">A Post-Apocalyptic world is where all that we know – people, places, comforts is gone. All that remains of the world is a shadow of its former self. It takes place in a non-technological future world, or a world where only scattered elements of society and technology remain.</h5>
 						<!--
 						<div class="owl-carousel owl-schedule bottom">
 							<div class="item">
@@ -222,7 +222,7 @@
 	</section>
 	<section id="teknacksofar" class="section">
 		<div class="container">
-		<h1 class="text-center">Teknack So Far</h1>
+		<h1 style="font-family:'VT323';font-size:96px;" class="text-center">Teknack So Far</h1>
 			<div class="row text-center title">
 				<div class="col col-md-offset-2 col-md-8">
 					<p style="font-size:17px;" class="light muted">Think of a college festival. Now think of it on your laptop. That is Teknack - An inter-collegiate ONLINE tech-fest organized by the ACM Student Chapter of Don Bosco Institute Of Technology, Kurla. The fest provides a global arena, encouraging students to emancipate their minds and bring forth the technical as well as the creative genius within them. We give students the opportunity to boost their analytical and creative skills while keeping them engaged in a fun competition.</p>
@@ -264,7 +264,7 @@
 	<section id="events" class="section gray-bg">
 		<div class="container">
 			<div class="row title text-center">
-				<h2 class="margin-top:0px;">Events for Teknack 2016</h2>
+				<h1 style="font-family:'VT323';font-size:96px;" class="margin-top:0px;">Events for Teknack 2016</h1>
 				<!--<h4 class="light muted">We're a dream team!</h4>-->
 			</div>
 			<div class="row">
@@ -475,7 +475,7 @@
 				
 				</div>
 				-->
-				<h3 class="white light" style="margin-top: 60px;">Past Sponsors<br><br></h3>
+				<h1 style="font-family:'VT323';font-size:96px;" class="text-center white">Past Sponsors</h1>
 				<div class="col-md-4 text-center" style="margin-bottom:10px;">
 					<img src="img/sponsors/spykar.png" style="width:200px;height:100px;" alt="client logo 2">
 				</div>
@@ -522,7 +522,7 @@
 						</div>
 					</div>
 				--> */?>
-					<button type="submit" name="register" id="register" class="btn btn-submit">Submit</button>
+					<button style="color:#FFF;background:#222;border-color:#222" type="submit" name="register" id="register" class="btn btn-submit">Submit</button>
 				</form>
 				<p style="color:white">Don't have a Code?<br><a style="color:yellow" href="#">Contact Us</a> to get one!</p>
 			</div>
@@ -544,7 +544,7 @@
 					<input name="ctelnum" type="text" class="form-control form-white" placeholder="Mobile Number">
 					<input name="ccolnm" type="text" class="form-control form-white" placeholder="College Name &amp; Location">
 					<textarea name="cmessage" style="resize: none;" rows="2"class="form-control form-white" placeholder="Message"></textarea>
-					<button type="submit" name="contact" id="contact" class="btn btn-submit">Submit</button>
+					<button style="color:#FFF;background:#222;border-color:#222" type="submit" name="contact" id="contact" class="btn btn-submit">Submit</button>
 				</form>
 				</div>
 				<div class="col-sm-6 text-center-mobile">
