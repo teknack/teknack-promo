@@ -38,4 +38,4 @@ Thumbs.db
 
 #Connetion File#
 ################
-conn.php
+www/conn.php
