@@ -189,7 +189,7 @@
 						<div class="bottom">
 							<!-- <h4 style="font-size:18px;" class="white small-pt no-margin regular">Going Live at 12am</h4> -->
 							<h4 style="font-family:'VT323';" class="white no-margin small-pt regular"><span class="open-blink"></span>Going Live at 12am</h4>
-							<h4 style="font-family:'VT323';" class="white no-margin small-pt regular">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on 13th February, 2015!</h4>
+							<h4 style="font-family:'VT323';" class="white no-margin small-pt regular">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on 13th February, 2016!</h4>
 							<h4 style="font-family:'VT323';" class="white no-margin small-pt regular">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Register Now</h4>
 							<a href="#" class="btn btn-white-fill expand">Register</a>
 						</div>
@@ -551,7 +551,7 @@
 					<h3 class="white">Going Live<span class="open-blink"></span></h3>
 					<div class="row opening-hours">
 							<!--<h5 class="light-white light">12 am</h5>-->
-							<h4 style="margin-left:15px;" class="regular white">13th - 14th February, 2015</h4>
+							<h4 style="margin-left:15px;" class="regular white">13th - 14th February, 2016</h4>
 						<!--
 						<div class="col-sm-6 text-center-mobile">
 							<h5 class="light-white light">10pm</h5>
